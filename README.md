@@ -2,11 +2,11 @@
 # Emotion-Based-Music-Recommender
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://python.org)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/EmotionAI-TextGen.svg)](https://GitHub.com/yourusername/EmotionAI-TextGen/issues/)
-[![GitHub license](https://img.shields.io/github/license/yourusername/EmotionAI-TextGen.svg)](https://github.com/yourusername/EmotionAI-TextGen/blob/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/Hariesh-Kai/Emotion-Based-Music-Recommenderen.svg)](https://GitHub.com/Hariesh-Kai/Emotion-Based-Music-Recommenderen/issues/)
+[![GitHub license](https://img.shields.io/github/license/Hariesh-Kai/Emotion-Based-Music-Recommenderen.svg)](https://github.com/Hariesh-Kai/Emotion-Based-Music-Recommenderen/blob/master/LICENSE)
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-streamlit-app.com)
 
-Embrace the synergy of emotions and words with EmotionAI-TextGen, where machine learning meets emotional intelligence. Dive into an immersive experience of understanding emotions through images and engaging in human-like interactions with cutting-edge text generation.
+Embrace the synergy of emotions and words with Emotion-Based-Music-Recommender, where machine learning meets emotional intelligence. Dive into an immersive experience of understanding emotions through images and engaging in human-like interactions with cutting-edge text generation.
 
 🌟 **Experience the future of AI-powered emotional recognition and conversational models today!**
 
@@ -30,7 +30,7 @@ Embrace the synergy of emotions and words with EmotionAI-TextGen, where machine 
 
 ## Getting Started
 
-Jump right into EmotionAI-TextGen by following these steps:
+Jump right into Emotion-Based-Music-Recommenderen by following these steps:
 
 ```bash
 git clone https://github.com/Hariesh-Kai/Emotion-Based-Music-Recommender.git
@@ -68,7 +68,7 @@ pip install -r requirements.txt
 
 ## Contributing
 
-Join the EmotionAI-TextGen movement! Contributions are more than welcome. Check out [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to make a difference.
+Join the Emotion-Based-Music-Recommenderen movement! Contributions are more than welcome. Check out [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to make a difference.
 
 ## License
 
@@ -81,6 +81,6 @@ A heartfelt thank you to:
 - 🙌 The TensorFlow team for their exceptional framework.
 - 🤗 Hugging Face for the Transformers library that powers our text generation.
 - 🎤 The creators of Gradio for their intuitive interface components.
-- ✨ All contributors and supporters of the EmotionAI-TextGen project.
+- ✨ All contributors and supporters of the Emotion-Based-Music-Recommenderen project.
 
-*EmotionAI-TextGen is a community-driven project and thrives on your feedback and support.*
+*Emotion-Based-Music-Recommenderen is a community-driven project and thrives on your feedback and support.*
