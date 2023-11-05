@@ -3,7 +3,7 @@
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://python.org)
 [![GitHub issues](https://img.shields.io/github/issues/Hariesh-Kai/Emotion-Based-Music-Recommenderen.svg)](https://GitHub.com/Hariesh-Kai/Emotion-Based-Music-Recommenderen/issues/)
-[![GitHub license](https://img.shields.io/github/license/Hariesh-Kai/Emotion-Based-Music-Recommenderen.svg)](https://github.com/Hariesh-Kai/Emotion-Based-Music-Recommenderen/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/Hariesh-Kai/Emotion-Based-Music-Recommenderen.svg)](https://github.com/Hariesh-Kai/Emotion-Based-Music-Recommenderen/LICENSE.md)
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-streamlit-app.com)
 
 Embrace the synergy of emotions and words with Emotion-Based-Music-Recommender, where machine learning meets emotional intelligence. Dive into an immersive experience of understanding emotions through images and engaging in human-like interactions with cutting-edge text generation.
